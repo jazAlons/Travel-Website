@@ -93,3 +93,29 @@ img{
     max-width: 100%;
     height: auto;
 }
+
+/* Reusable CSS classes */
+
+.container{
+    max-width: 1120px;
+    margin-inline: 1.5rem;
+}
+
+.grid{
+    display: grid;
+    gap: 1.5rem;
+}
+
+.section{
+   padding-block: 5rem 1rem; 
+}
+
+.section-title{
+    text-align: center;
+    font-size: var(--h1-font-size);
+    margin-bottom: 1.5rem;
+}
+
+.main{
+    overflow: hidden;
+}
