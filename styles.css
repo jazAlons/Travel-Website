@@ -79,3 +79,17 @@ h1, h2, h3, h4{
     font-family: var(--second-font);
     font-weight: var(--font-semi-bold);
 }
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
