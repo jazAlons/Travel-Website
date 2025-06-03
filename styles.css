@@ -150,3 +150,17 @@ img{
     color: var(--title-color);
     cursor: pointer;
 }
+
+@media screen and (max-width:1023px){
+    .nav__menu{
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: gray;
+        width: 100%;
+        padding-block: 4rem;
+        backdrop-filter: blur(24px);
+        -webkit-backdrop-filter: blur(24px); /* For safari*/
+        transition: top .4s;
+    }
+}
