@@ -866,4 +866,37 @@ img{
         column-gap: 8.5rem;
         padding-block: 1rem 5rem;
     }
+
+    .join__img{
+        width: 460px;
+    }
+
+    .join__description{
+        margin-bottom: 3rem;
+    }
+
+    .footer{
+        padding-block: 5rem 3rem;
+    }
+
+    .footer__title{
+        margin-bottom: 1.5rem;
+    }
+
+    .footer__group{
+        margin-top: 7rem;
+    }
+
+    .footer__social{
+        column-gap: 2rem;
+    }
+
+
+    .footer__social-link{
+        font-size: 1.5rem;
+    }
+
+    .scrollup{
+        right: 3rem;
+    }
 }
