@@ -192,6 +192,9 @@ img{
     transition: width .3s;
 }
 
+.nav__link:hover::after{
+    width: 70%;
+}
 
 
 .nav__close{
@@ -217,6 +220,11 @@ img{
     top: 0;
     left: 0;
     z-index: -1;
+}
+
+/* Active link */
+.active-link::after{
+    width: 70%;
 }
 
 /* Home */
