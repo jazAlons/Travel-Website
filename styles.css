@@ -175,6 +175,7 @@ img{
 }
 
 .nav__link{
+    position: relative;
     color: var(--title-color);
     font-family: var(--second-font);
     font-weight: var(--font-medium);
@@ -626,4 +627,10 @@ img{
 
 .scrollup:hover{
     transform: translateY(-.25rem);
+}
+
+/* Show scroll up*/
+
+.show-scroll{
+    bottom: 3rem;
 }
