@@ -16,6 +16,16 @@ This project is a simple website designed to invite users to visit **Tepoztlán*
 - **scrollreveal.min.js**  
   Minified external library ScrollReveal that enables scroll-based animations on the page.
 
+## Preview
+
+
+Here are some screenshots from the website:
+
+![Screenshot 1](./images/1.jpeg)  
+![Screenshot 2](./images/2.jpeg)  
+![Screenshot 3](./images/3.jpeg)  
+![Screenshot 4](./images/4.jpeg)  
+
 ## Key Features
 
 - Utilizes **ScrollReveal** to animate the entrance of texts, images, and sections, improving the site’s visual interaction and dynamics.  
