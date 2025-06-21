@@ -21,10 +21,10 @@ This project is a simple website designed to invite users to visit **Tepoztlán*
 
 Here are some screenshots from the website:
 
-![Screenshot 1](./images/1.jpeg)  
-![Screenshot 2](./images/2.jpeg)  
-![Screenshot 3](./images/3.jpeg)  
-![Screenshot 4](./images/4.jpeg)  
+![Screenshot 1](1.jpeg)  
+![Screenshot 2](2.jpeg)  
+![Screenshot 3](3.jpeg)  
+![Screenshot 4](4.jpeg)  
 
 ## Key Features
 
